@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\obj\Debug\uvodnaVjezba02.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\obj\Debug\uvodnaVjezba02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\obj\Debug\uvodnaVjezba02.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\bin\Debug\uvodnaVjezba02.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\bin\Debug\uvodnaVjezba02.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\bin\Debug\uvodnaVjezba02.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\obj\Debug\uvodnaVjezba02.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\uvodnaVjezba02\obj\Debug\uvodnaVjezba02.pdb
